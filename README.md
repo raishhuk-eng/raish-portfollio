@@ -1,6 +1,6 @@
 # Raish Mansuri — Professional Portfolio Website
 
-A complete, modern, premium, fully responsive personal portfolio website built for **Raish Mansuri**, tailored specifically for UK job-market opportunities in **IT Support**, **Network Engineering**, and **Cybersecurity**.
+A complete, modern, premium, fully responsive personal portfolio website built for **Raish Mansuri**, showcasing expertise in **Data Mining & Visualization**, **Data Analytics**, and **Data Security & Governance** (with established background in IT Support & Network Engineering).
 
 All qualifications, work history, skills, certifications, and contact details are strictly extracted from Raish Mansuri's official uploaded Curriculum Vitae (CV).
 
@@ -103,10 +103,10 @@ npm run lint
 | Category | Details Extracted from CV |
 |---|---|
 | **Full Name** | Raish Mansuri |
-| **Headline** | IT Support \| Network Engineering \| Cybersecurity |
+| **Headline** | DATA-MINING & VISUALIZATION \| DATA ANALYTICS \| DATA SECURITY AND GOVERNANCE |
 | **Location** | Birmingham, United Kingdom |
-| **Contact** | Phone: `+44 7344829205` \| Email: `raishmansuri0777@gmail.com` |
-| **Education** | **B.E. in Computer Engineering**, Arrdekta Institute of Technology (2019 – 2023)<br>**Higher Secondary Certificate**, Municipal Highschool, Kheralu (2017 – 2019) |
+| **Contact** | Phone: `+44 7344829205` \| Email: `raishhuk@gmail.com` |
+| **Education** | **M.Sc. in Data and Artificial Intelligence**, University of Wales Trinity Saint David (UWTSD), Birmingham (Sep 2026 – Present)<br>**B.E. in Computer Engineering**, Arrdekta Institute of Technology (2019 – 2023)<br>**Higher Secondary Certificate**, Municipal Highschool, Kheralu (2017 – 2019) |
 | **Experience** | **Network Engineer**, National Innovation Foundation-India, GoI (June 2024 – July 2026)<br>**IT Service**, Linics Enterprise Private Limited (1 August 2023 – 30 May 2024)<br>**Intern**, NK Cyber Security Pvt. Ltd. (January 2023 – May 2023) |
 | **Skills** | **IT Support:** Tech Support & Troubleshooting, Incident/Ticket Management, System Maintenance & Configuration, Communication & User Support<br>**Operating Systems:** Windows, Linux<br>**Hardware & Networking:** Hardware/Software Installation, LAN, TCP/IP, Wi-Fi, Basic Networking Assistance<br>**Additional Skills:** Website Updates & Maintenance, Social Media Content Creation & Scheduling, Social Media Platform Management |
 | **Certifications** | Vulnerability Assessment and Penetration Testing, Ethical Hacking, Cyber Forensics, Stay Safe in Cyber Space, Introduction to Social Media |

@@ -7,7 +7,7 @@
 export const personalInfo = {
   name: "Raish Mansuri",
   initials: "RM",
-  headline: "DATA-MINING & VISULIAZATION | DATA ANALYTICS | DATA SECURITY AND GOVERNANCE",
+  headline: "DATA-MINING & VISUALIZATION | DATA ANALYTICS | DATA SECURITY AND GOVERNANCE",
   subHeadline: "Computer Engineering Graduate & Technical Infrastructure Specialist",
   location: "Birmingham, United Kingdom",
   email: "raishhuk@gmail.com",
